@@ -1,4 +1,5 @@
-<img width="1200" alt="Карточка(5)" src="https://github.com/user-attachments/assets/3a51ab58-3e7b-4e5c-aaa8-1b0ff9e7f3f1" />
+![Карточка(6)](https://github.com/user-attachments/assets/6a42ec2d-b6eb-4cbe-8706-54bd242e94f6)
+
 <p align="center">Typst g7.32 - это организация, которая занимается разработкой modern-g7-32, это шаблон для оформления документов согласно стандартам ГОСТ 7.32-2017 на Typst.
   Вы можете использовать наше решение для того, чтобы быстрее и удобнее оформлять свои работы.</p>
 
