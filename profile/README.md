@@ -1,4 +1,5 @@
-![Шапка](https://github.com/user-attachments/assets/ffeab8e3-0c2f-4283-8ed5-44eea58d9a87)
+![Шапка](https://github.com/user-attachments/assets/f820a093-a2e5-43b5-bfd0-ead20b6edccf)
+
 
 <p align="center">Typst g7.32 - это организация, которая занимается разработкой modern-g7-32, это шаблон для оформления документов согласно стандартам ГОСТ 7.32-2017 на Typst.
   Вы можете использовать наше решение для того, чтобы быстрее и удобнее оформлять свои работы.</p>
